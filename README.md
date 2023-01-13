@@ -1,2 +1,1 @@
-#my-obsidian-vault
-hello my dear this is bullshit
+[[How to Create a Git Storage for Your Obsidian Vault]]
