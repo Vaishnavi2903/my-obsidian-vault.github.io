@@ -1,6 +1,3 @@
-[How to Create a Git Storage for Your Obsidian Vault](obsidian://open?vault=my-obsidian-vault&file=Users%2Fvaishnaviverma%2FDocuments%2FHow%20to%20Create%20a%20Git%20Storage%20for%20Your%20Obsidian%20Vault)
-
-
-
+[How to Create a Git Storage for Your Obsidian Vault](## [my-obsidian-vault.github.io](https://github.com/Vaishnavi2903/my-obsidian-vault.github.io)/**How to Create a Git Storage for Your Obsidian Vault.md**)
 
 
