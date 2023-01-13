@@ -1,3 +1,3 @@
-[How to Create a Git Storage for Your Obsidian Vault](my-obsidian-vault.github.io/How to Create a Git Storage for Your Obsidian Vault.md)
+[How to Create a Git Storage for Your Obsidian Vault](main/How to Create a Git Storage for Your Obsidian Vault.md)
 
 
