@@ -19,10 +19,11 @@
             "id": "a42c23953208ee12",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/.DS_Store",
-                "staged": true
+                "file": "Markdown/What is Markdown?.md",
+                "mode": "source",
+                "source": true
               }
             }
           },
@@ -54,7 +55,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTimeReverse"
               }
             }
           },
@@ -101,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Markdown/What is Markdown?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Markdown/What is Markdown?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Markdown/What is Markdown?.md"
+              }
             }
           },
           {
@@ -166,7 +171,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5b22814fdc0779a5",
+  "active": "a42c23953208ee12",
   "lastOpenFiles": [
     "Markdown/What is Markdown?.md",
     "Untitled/Untitled.canvas",
