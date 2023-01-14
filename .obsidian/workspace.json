@@ -21,8 +21,8 @@
             "state": {
               "type": "diff-view",
               "state": {
-                "file": "Markdown/What is Markdown?.md",
-                "staged": false
+                "file": ".obsidian/.DS_Store",
+                "staged": true
               }
             }
           },
@@ -166,7 +166,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a42c23953208ee12",
+  "active": "5b22814fdc0779a5",
   "lastOpenFiles": [
     "Markdown/What is Markdown?.md",
     "Untitled/Untitled.canvas",
