@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "64d1e0c30de35f8d",
+    "type": "split",
+    "children": [
+      {
+        "id": "3385214c6aa7efa4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58020814a77a9e6e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "a42c23953208ee12",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "Markdown/What is Markdown?.md",
+                "staged": false
+              }
+            }
+          },
+          {
+            "id": "da2369a6e4a8e1b9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0315eb04f3442590",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6dfaf307920a199",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eac8bf2a8c263879",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4319895370718bfd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f6f2a6b5c739018f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6f09fefc0d72ed97",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2902c09c8cd709b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c3b52cdc9952134",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cb14566d74f16a03",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "47c467d612a4852f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0f36db4cb93147b6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "5b22814fdc0779a5",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a42c23953208ee12",
+  "lastOpenFiles": [
+    "Markdown/What is Markdown?.md",
+    "Untitled/Untitled.canvas",
+    "Users/vaishnaviverma/Documents/README.md",
+    "README.md",
+    "Users/vaishnaviverma/Documents/How to Create a Git Storage for Your Obsidian Vault.md",
+    "How.md",
+    "How to Create a Git Storage for Your Obsidian Vault (Git repo for obsidian).md",
+    "How to add git to obsidian.md"
+  ]
+}
